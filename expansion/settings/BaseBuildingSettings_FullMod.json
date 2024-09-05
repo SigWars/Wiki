@@ -1,0 +1,569 @@
+{
+  "m_Version": 4,
+  "CanBuildAnywhere": 1,
+  "AllowBuildingWithoutATerritory": 0,
+  "DeployableOutsideATerritory": [
+    "ExpansionSatchel",
+    "Fireplace",
+    "TerritoryFlagKit",
+    "MediumTent",
+    "LargeTent",
+    "CarTent",
+    "PartyTent",
+    "ExpansionCamoTentKit",
+    "ExpansionCamoBoxKit",
+    "ShelterKit",
+    "LandMineTrap",
+    "BearTrap",
+    "FishNetTrap",
+    "RabbitSnareTrap",
+    "SmallFishTrap",
+    "TripwireTrap",
+    "SeaChest",
+    "WoodenCrate",
+    "GardenPlot",
+    "MRTs_C4_Tactical",
+    "ClaymoreMine"
+  ],
+  "DeployableInsideAEnemyTerritory": [
+    "ExpansionSatchel",
+    "LandMineTrap",
+    "BearTrap",
+    "FishNetTrap",
+    "RabbitSnareTrap",
+    "SmallFishTrap",
+    "TripwireTrap",
+    "MRTs_C4_Tactical",
+    "OZ_C4Black_T1",
+    "OZ_C4Green_T1",
+    "OZ_C4Black_T2",
+    "OZ_C4Green_T2",
+    "OZ_C4GreenBlack_T2",
+    "OZ_C4BlackGreen_T2",
+    "ExpansionSafeLarge",
+    "ExpansionSafeMedium",
+    "ExpansionSafeMini"
+  ],
+  "CanCraftVanillaBasebuilding": 0,
+  "CanCraftExpansionBasebuilding": 0,
+  "DestroyFlagOnDismantle": 1,
+  "DismantleOutsideTerritory": 1,
+  "DismantleInsideTerritory": 1,
+  "DismantleAnywhere": 0,
+  "CodelockActionsAnywhere": 1,
+  "CodeLockLength": 6,
+  "DoDamageWhenEnterWrongCodeLock": 0,
+  "DamageWhenEnterWrongCodeLock": 10,
+  "RememberCode": 1,
+  "CanCraftTerritoryFlagKit": 1,
+  "SimpleTerritory": 1,
+  "AutomaticFlagOnCreation": 1,
+  "GetTerritoryFlagKitAfterBuild": 0,
+  "BuildZoneRequiredCustomMessage": "Você não pode construir neste local.",
+  "Zones": [
+    {
+      "Name": "KeyCard",
+      "Center": [
+        8482,
+        138.5,
+        13194
+      ],
+      "Radius": 100,
+      "Items": [],
+      "IsWhitelist": 1,
+      "CustomMessage": ""
+    },
+    {
+      "Name": "MILITAR",
+      "Center": [
+        11540,
+        166.5,
+        12925
+      ],
+      "Radius": 500,
+      "Items": [],
+      "IsWhitelist": 1,
+      "CustomMessage": ""
+    },
+    {
+      "Name": "MILITAR2",
+      "Center": [
+        11785,
+        136.529999,
+        12090
+      ],
+      "Radius": 500,
+      "Items": [],
+      "IsWhitelist": 1,
+      "CustomMessage": ""
+    },
+    {
+      "Name": "MILITAR3",
+      "Center": [
+        12585,
+        153.800003,
+        12565
+      ],
+      "Radius": 500,
+      "Items": [],
+      "IsWhitelist": 1,
+      "CustomMessage": ""
+    },
+    {
+      "Name": "MILITAR4",
+      "Center": [
+        12135,
+        140.940002,
+        13015
+      ],
+      "Radius": 500,
+      "Items": [],
+      "IsWhitelist": 1,
+      "CustomMessage": ""
+    },
+    {
+      "Name": "MILITAR6",
+      "Center": [
+        10940,
+        220.130005,
+        13372
+      ],
+      "Radius": 300,
+      "Items": [],
+      "IsWhitelist": 1,
+      "CustomMessage": ""
+    },
+    {
+      "Name": "MILITAR7",
+      "Center": [
+        4353.33301,
+        339,
+        10320
+      ],
+      "Radius": 1500,
+      "Items": [],
+      "IsWhitelist": 1,
+      "CustomMessage": ""
+    },
+    {
+      "Name": "MILITAR8",
+      "Center": [
+        1340,
+        441.350006,
+        14740
+      ],
+      "Radius": 500,
+      "Items": [],
+      "IsWhitelist": 1,
+      "CustomMessage": ""
+    },
+    {
+      "Name": "MILITAR9",
+      "Center": [
+        3850,
+        358.119995,
+        11530
+      ],
+      "Radius": 1000,
+      "Items": [],
+      "IsWhitelist": 1,
+      "CustomMessage": ""
+    },
+    {
+      "Name": "MILITAR10",
+      "Center": [
+        317.142914,
+        294.98999,
+        9348.57129
+      ],
+      "Radius": 500,
+      "Items": [],
+      "IsWhitelist": 1,
+      "CustomMessage": ""
+    },
+    {
+      "Name": "MILITAR11",
+      "Center": [
+        2468.88892,
+        190.199997,
+        5144.44385
+      ],
+      "Radius": 900,
+      "Items": [],
+      "IsWhitelist": 1,
+      "CustomMessage": ""
+    },
+    {
+      "Name": "MILITAR12",
+      "Center": [
+        3665.71411,
+        402,
+        5988.5708
+      ],
+      "Radius": 500,
+      "Items": [],
+      "IsWhitelist": 1,
+      "CustomMessage": ""
+    },
+    {
+      "Name": "MILITAR13",
+      "Center": [
+        6056,
+        295.570007,
+        7708
+      ],
+      "Radius": 800,
+      "Items": [],
+      "IsWhitelist": 1,
+      "CustomMessage": ""
+    },
+    {
+      "Name": "MILITAR14",
+      "Center": [
+        4410,
+        306.799988,
+        7903.33301
+      ],
+      "Radius": 900,
+      "Items": [],
+      "IsWhitelist": 1,
+      "CustomMessage": ""
+    },
+    {
+      "Name": "MILITAR15",
+      "Center": [
+        7975,
+        339.369995,
+        14665
+      ],
+      "Radius": 700,
+      "Items": [],
+      "IsWhitelist": 1,
+      "CustomMessage": ""
+    },
+    {
+      "Name": "MILITAR",
+      "Center": [
+        1353.33301,
+        445.25,
+        14720
+      ],
+      "Radius": 2000,
+      "Items": [],
+      "IsWhitelist": 1,
+      "CustomMessage": ""
+    },
+    {
+      "Name": "MILITAR16",
+      "Center": [
+        1131.42896,
+        185.339996,
+        7228.57178
+      ],
+      "Radius": 600,
+      "Items": [],
+      "IsWhitelist": 1,
+      "CustomMessage": ""
+    },
+    {
+      "Name": "MILITAR17",
+      "Center": [
+        7160,
+        127.279999,
+        12694.29
+      ],
+      "Radius": 200,
+      "Items": [],
+      "IsWhitelist": 1,
+      "CustomMessage": ""
+    },
+    {
+      "Name": "MILITAR18",
+      "Center": [
+        9534.28613,
+        241.419998,
+        11817.1396
+      ],
+      "Radius": 200,
+      "Items": [],
+      "IsWhitelist": 1,
+      "CustomMessage": ""
+    },
+    {
+      "Name": "MILITAR19",
+      "Center": [
+        2604,
+        363.640015,
+        6776
+      ],
+      "Radius": 200,
+      "Items": [],
+      "IsWhitelist": 1,
+      "CustomMessage": ""
+    },
+    {
+      "Name": "MILITAR20",
+      "Center": [
+        10434,
+        178.75,
+        9132
+      ],
+      "Radius": 200,
+      "Items": [],
+      "IsWhitelist": 1,
+      "CustomMessage": ""
+    },
+    {
+      "Name": "MILITAR21",
+      "Center": [
+        10454.29,
+        281.01001,
+        5914.28613
+      ],
+      "Radius": 300,
+      "Items": [],
+      "IsWhitelist": 1,
+      "CustomMessage": ""
+    },
+    {
+      "Name": "MILITAR22",
+      "Center": [
+        8136.66699,
+        475.470001,
+        9136.66602
+      ],
+      "Radius": 300,
+      "Items": [],
+      "IsWhitelist": 1,
+      "CustomMessage": ""
+    },
+    {
+      "Name": "MILITAR23",
+      "Center": [
+        7453.33301,
+        390.549988,
+        9203.33301
+      ],
+      "Radius": 200,
+      "Items": [],
+      "IsWhitelist": 1,
+      "CustomMessage": ""
+    },
+    {
+      "Name": "POLICIA1",
+      "Center": [
+        9551.11035,
+        301.730011,
+        8804.44434
+      ],
+      "Radius": 100,
+      "Items": [],
+      "IsWhitelist": 1,
+      "CustomMessage": ""
+    },
+    {
+      "Name": "POLICIA2",
+      "Center": [
+        3793.33301,
+        313.130005,
+        9046.66602
+      ],
+      "Radius": 150,
+      "Items": [],
+      "IsWhitelist": 1,
+      "CustomMessage": ""
+    },
+    {
+      "Name": "POLICIA3",
+      "Center": [
+        11207.5,
+        43.8600006,
+        14445
+      ],
+      "Radius": 100,
+      "Items": [],
+      "IsWhitelist": 1,
+      "CustomMessage": ""
+    },
+    {
+      "Name": "POLICIA4",
+      "Center": [
+        5988.33301,
+        266.880005,
+        10351.6699
+      ],
+      "Radius": 50,
+      "Items": [],
+      "IsWhitelist": 1,
+      "CustomMessage": ""
+    },
+    {
+      "Name": "POLICIA5",
+      "Center": [
+        7680,
+        0,
+        7680
+      ],
+      "Radius": 100,
+      "Items": [],
+      "IsWhitelist": 1,
+      "CustomMessage": ""
+    },
+    {
+      "Name": "POLICIA6",
+      "Center": [
+        5850,
+        136.779999,
+        4670
+      ],
+      "Radius": 100,
+      "Items": [],
+      "IsWhitelist": 1,
+      "CustomMessage": ""
+    },
+    {
+      "Name": "POLICIA7",
+      "Center": [
+        7716.36279,
+        118.980003,
+        12618.1797
+      ],
+      "Radius": 50,
+      "Items": [],
+      "IsWhitelist": 1,
+      "CustomMessage": ""
+    },
+    {
+      "Name": "ASERNOVO",
+      "Center": [
+        8508.8418,
+        203.801788,
+        14001.7471
+      ],
+      "Radius": 200,
+      "Items": [],
+      "IsWhitelist": 1,
+      "CustomMessage": ""
+    },
+    {
+      "Name": "MILITAR24",
+      "Center": [
+        4940,
+        171.690002,
+        13020
+      ],
+      "Radius": 400,
+      "Items": [],
+      "IsWhitelist": 1,
+      "CustomMessage": ""
+    },
+    {
+      "Name": "SKILIST",
+      "Center": [
+        13600,
+        34.5299988,
+        3160
+      ],
+      "Radius": 1400,
+      "Items": [],
+      "IsWhitelist": 1,
+      "CustomMessage": ""
+    },
+    {
+      "Name": "MILITAR939",
+      "Center": [
+        5056.66699,
+        9.31999969,
+        2376.66699
+      ],
+      "Radius": 500,
+      "Items": [],
+      "IsWhitelist": 1,
+      "CustomMessage": ""
+    },
+    {
+      "Name": "Militar 9340",
+      "Center": [
+        2380,
+        -36.1500015,
+        1200
+      ],
+      "Radius": 900,
+      "Items": [],
+      "IsWhitelist": 1,
+      "CustomMessage": ""
+    },
+    {
+      "Name": "Traficante1",
+      "Center": [
+        11485.71,
+        221,
+        7502.85693
+      ],
+      "Radius": 300,
+      "Items": [],
+      "IsWhitelist": 1,
+      "CustomMessage": ""
+    },
+    {
+      "Name": "Traficante2",
+      "Center": [
+        2015.87622,
+        232.413879,
+        9803.33301
+      ],
+      "Radius": 300,
+      "Items": [],
+      "IsWhitelist": 1,
+      "CustomMessage": ""
+    },
+    {
+      "Name": "Pavlovo-Military",
+      "Center": [
+        2124.724854,
+        91.693512,
+        3361.618408
+      ],
+      "Radius": 600,
+      "Items": [],
+      "IsWhitelist": 1,
+      "CustomMessage": ""
+    }
+  ],
+  "ZonesAreNoBuildZones": 1,
+  "CodelockAttachMode": 2,
+  "DismantleFlagMode": -1,
+  "FlagMenuMode": 1,
+  "OverrideVanillaEntityPlacement": 1,
+  "EnableVirtualStorage": 1,
+  "VirtualStorageExcludedContainers": [
+    "OZ_Crate_Military",
+    "OZ_Crate_Black",
+    "OZ_Crate_Blue",
+    "OZ_Crate_Green",
+    "OZ_Crate_LightBlue",
+    "OZ_Crate_Lime",
+    "OZ_Crate_Orange",
+    "OZ_Crate_Purple",
+    "OZ_Crate_Red",
+    "OZ_Crate_Yellow",
+    "OZ_Crate_Gray",
+    "Utopia_Airdrop_Container",
+    "Utopia_Crate_Netting",
+    "Utopia_Airdrop_Crate",
+    "Utopia_Airdrop_Cage",
+    "Exodus_Workbench",
+    "ExpansionAirdropContainerBase",
+    "ExpansionCamoTent",
+    "MediumTent",
+    "MediumTent_Green",
+    "MediumTent_Orange",
+    "LargeTent",
+    "CarTent",
+    "PartyTent",
+    "PartyTent_Blue",
+    "PartyTent_Brown",
+    "PartyTent_Lunapark"
+
+  ]
+}
